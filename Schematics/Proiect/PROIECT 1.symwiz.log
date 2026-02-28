@@ -1,0 +1,8 @@
+STATUS: PSpice Model Import Wizard for "Capture" (17.2.0.d001)
+STATUS:  
+   INFO: OLB driven flow
+   INFO: Input File: C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\PROIECT 1.DSN
+   INFO: Symbol Name: @PROIECT 1.SCHEMATIC1(sch_1):INS4211@BC856B.QBC856B.Normal(chips)
+   INFO: Implementation type already exists on symbol "@PROIECT 1.SCHEMATIC1(sch_1):INS4211@BC856B.QBC856B.Normal(chips)".
+   INFO: Implementation already exists on symbol "@PROIECT 1.SCHEMATIC1(sch_1):INS4211@BC856B.QBC856B.Normal(chips)".
+STATUS: 0 Error messages, 0 Warning messages

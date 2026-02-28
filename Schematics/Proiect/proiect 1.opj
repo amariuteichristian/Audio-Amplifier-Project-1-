@@ -1,0 +1,296 @@
+(ExpressProject "Proiect 1"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\led.lib"
+        (Type "PSpiceLibrary")))
+    (NoModify)
+    (File ".\proiect 1.DSN"
+      (Type "Schematic Design")
+      (DisplayName ".\proiect 1.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\PROIECT 1.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Board_sim_option "VHDL_flow")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\PROIECT 1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\PROIECT 1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "0")
+    (Create Allegro Netlist "TRUE")
+    (Allegro Netlist Directory "allegro")
+    (View Allegro Netlist Files "TRUE")
+    (Allegro Netlist Create DCF File "FALSE")
+    (Update Allegro Board "TRUE")
+    (Allegro Netlist Output Board File "allegro\PROIECT 1.brd")
+    (Allegro Netlist Remove Etch "FALSE")
+    (Allegro Netlist Place Changed Component "ALWAYS_REPLACE")
+    (Allegro Netlist Open Board in Allegro "ORCAD")
+    (Allegro Setup Backup Versions "3")
+    (Allegro Setup Ignore Constraints "FALSE")
+    (Allegro Setup Part Type Length "31")
+    (Allegro Netlist Combine Property String "PCB Footprint")
+    (Allegro Netlist Ignore Fixed Property "FALSE")
+    (Allegro Netlist User Defined Property "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\Christian\Documents\FAC\TEME\AN3\Sem.1\P1\P1_2025_431E_Amariutei_Christian_Antonio_AAF_N1_OrCAD\Schematics\Proiect\allegro\PROIECT 1.brd")
+    ("Allegro Netlist Output Board File" "allegro\PROIECT 1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\proiect 1-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net"
+      (Type "Report")
+      (DisplayName ".\proiect 1-PSpiceFiles\SCHEMATIC1\SCHEMATIC1.net"))
+    (File ".\proiect 1.drc"
+      (Type "Report"))
+    (File ".\proiect 1.bom"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\av.sim"
+        (DisplayName "SCHEMATIC1-av")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\psf.sim"
+        (DisplayName "SCHEMATIC1-psf")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\a.sim"
+        (DisplayName "SCHEMATIC1-A")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\sim.sim"
+        (DisplayName "SCHEMATIC1-sim")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\ri.sim"
+        (DisplayName "SCHEMATIC1-Ri")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\proiect 1-pspicefiles\schematic1\temp.sim"
+        (DisplayName "SCHEMATIC1-temp")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\proiect 1-pspicefiles\schematic1\av.sim"))
+    (Folder "Stimulus Files")
+    (Folder "Include Files")
+    (Folder "Model Libraries"
+      (File "C:\Cadence\SPB_17.2\tools\pspice\library\nomd.lib"
+        (DisplayName "C:\Cadence\SPB_17.2\tools\pspice\library\nomd.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\led.lib"
+        (DisplayName
+           ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\led.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (DisplayName
+           ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (DisplayName
+           ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (DisplayName
+           ".\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (QBC856B
+      (FullPartName "QBC856B.Normal")
+      (LibraryName
+         "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC856B.OLB")
+      (DeviceIndex "0"))
+    (VSIN
+      (FullPartName "VSIN.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\TCLSCRIPTS\CAPPSPICEMODELAPP\LED\HYBRID\SUPPORTFILES\LED.OLB")
+      (DeviceIndex "0"))
+    (IAC
+      (FullPartName "IAC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (SOURCE VOLTAGE
+      (FullPartName "SOURCE VOLTAGE.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (1N4148
+      (FullPartName "1N4148.Normal")
+      (LibraryName
+         "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\431E_TEMA_12_AJF\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\1N4148.OLB")
+      (DeviceIndex "0"))
+    (QBC846B
+      (FullPartName "QBC846B.Normal")
+      (LibraryName
+         "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\431E_TEMA_12_AJF\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC846B.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\Christian\Documents\FAC\TEME\AN3\Sem.1\P1\431E_Tema_12_AJF\431E_Tema_12_AJF\431E_Tema_12_AJF")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\christian\documents\fac\teme\an3\sem.1\p1\p1_2025_431e_amariutei_christian_antonio_aaf_n1_orcad\schematics\proiect\proiect 1.DSN")
+      (Path "Design Resources"
+         "c:\users\christian\documents\fac\teme\an3\sem.1\p1\p1_2025_431e_amariutei_christian_antonio_aaf_n1_orcad\schematics\proiect\proiect 1.DSN"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1386 0 638"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "-210 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CHRISTIAN\DOCUMENTS\FAC\TEME\AN3\SEM.1\P1\P1_2025_431E_AMARIUTEI_CHRISTIAN_ANTONIO_AAF_N1_ORCAD\SCHEMATICS\PROIECT\PROIECT 1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Christian")
+  (ISPCBBASICLICENSE "false"))
