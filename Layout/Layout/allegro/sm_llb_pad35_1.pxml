@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<padstacks>
+    <padstack version="1.0">
+        <padstackname>SM_LLB_PAD35_1</padstackname>
+        <padstackusage>SMD_PIN</padstackusage>
+        <units>mm</units>
+        <accuracy>4</accuracy>
+        <pad>
+            <type>REGULAR_PAD</type>
+            <layer>TOP</layer>
+            <figure>RECTANGLE</figure>
+            <width>1.9304</width>
+            <height>1.4</height>
+        </pad>
+        <pad>
+            <type>THERMAL_PAD</type>
+            <layer>TOP</layer>
+            <figure>RECTANGLE</figure>
+            <width>2.6924</width>
+            <height>2.18</height>
+        </pad>
+        <pad>
+            <type>ANTIPAD_PAD</type>
+            <layer>TOP</layer>
+            <figure>RECTANGLE</figure>
+            <width>2.1844</width>
+            <height>1.68</height>
+        </pad>
+        <pad>
+            <type>REGULAR_PAD</type>
+            <layer>TOP_SOLDER_MASK_PAD</layer>
+            <figure>RECTANGLE</figure>
+            <width>2.1844</width>
+            <height>1.654</height>
+        </pad>
+        <pad>
+            <type>REGULAR_PAD</type>
+            <layer>TOP_PASTE_MASK_PAD</layer>
+            <figure>RECTANGLE</figure>
+            <width>1.7526</width>
+            <height>1.26</height>
+        </pad>
+        <options>
+            <supress_unconnected>Y</supress_unconnected>
+        </options>
+    </padstack>
+</padstacks>

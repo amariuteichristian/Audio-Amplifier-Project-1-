@@ -1,0 +1,18 @@
+\t (00:00:08) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Sun Dec 14 12:32:25 2025
+\t (00:00:08)         Host=DESKTOP-AMI0RI5 User=Christian Pid=1612 CPUs=4
+\t (00:00:08) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:09) Starting new design...
+\i (00:00:10) trapsize 669
+\i (00:00:10) trapsize 684
+\i (00:00:10) trapsize 1126
+\i (00:00:10) trapsize 1123
+\i (00:00:11) generaledit 
+\i (00:00:23) open 
+\i (00:00:29) fillin "C:\Users\Christian\Documents\FAC\TEME\AN3\Sem.1\P1\P1_2025_431E_Amariutei_Christian_Antonio_AAF_N1_OrCAD\Layout\Layout\allegro\PROIECT 1.brd"
+\i (00:00:29) cd "C:\Users\Christian\Documents\FAC\TEME\AN3\Sem.1\P1\P1_2025_431E_Amariutei_Christian_Antonio_AAF_N1_OrCAD\Layout\Layout\allegro"
+\t (00:00:29) Opening existing design...
+\i (00:00:29) trapsize 2628
+\t (00:00:29)     Journal end - Sun Dec 14 12:32:46 2025

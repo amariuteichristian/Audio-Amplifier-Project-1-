@@ -1,0 +1,33 @@
+\t (00:00:46) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:46)     Journal start - Sat Dec 13 22:36:43 2025
+\t (00:00:46)         Host=DESKTOP-AMI0RI5 User=Christian Pid=7156 CPUs=4
+\t (00:00:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:46) 
+\d (00:00:46) Design opened: C:/Users/Christian/Documents/FAC/TEME/AN3/Sem.1/P1/P1_2025_431E_Amariutei_Christian_Antonio_AAF_N1_OrCAD/Layout/Layout/PROIECT 1.brd
+\i (00:00:46) generaledit 
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 1405.480 230.291
+\i (00:00:47) trapsize 5256
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 1335.053 230.291
+\i (00:00:47) trapsize 10512
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 1280.392 236.598
+\i (00:00:47) trapsize 21023
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 1234.142 223.984
+\i (00:00:47) trapsize 42046
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 551.250 1022.861
+\i (00:01:43) trapsize 21023
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 534.432 623.423
+\i (00:01:43) trapsize 10512
+\i (00:18:32) exit 
+\t (00:18:32)     Journal end - Sat Dec 13 22:54:29 2025
